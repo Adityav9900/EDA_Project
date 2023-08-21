@@ -1,2 +1,2 @@
 # EDA_Project
-Diwali Sales Analysis using Exploratory Data Analysis
+Exploratory Data Analysis for Diwali Sales
